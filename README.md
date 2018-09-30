@@ -132,7 +132,7 @@ corresponding expanded page is shown.
 ```bash
 mkdir -p $GOPATH/src/github.com/andyxning
 cd $GOPATH/src/github.com/andyxning
-git clone https://github.com/andyxning/shortme.git
+git clone https://github.com/admpub/shortme.git
 
 cd shortme
 make build
